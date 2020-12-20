@@ -1,0 +1,5 @@
+<!--Timer Adsense-->
+       <script>//<![CDATA[
+setTimeout(KJ_AsOT, 1500);
+function KJ_AsOT(){var head_ID = document.getElementsByTagName("head")[0]; var script_element = document.createElement('script');script_element.type = 'text/javascript';script_element.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';head_ID.appendChild(script_element);}
+//]]></script>
